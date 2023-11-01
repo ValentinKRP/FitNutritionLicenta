@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "768479670763",
+    "project_id": "nutrin-4f722",
+    "storage_bucket": "nutrin-4f722.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768479670763:android:9db3e5877f31864b03e9ae",
+        "android_client_info": {
+          "package_name": "com.carp.fitnutrition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768479670763-kedj61gmv90duoqv9l7sh4mdqaa7a0vh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw88B8PlZf_zmO55T1R2YgiHm7TCbqgXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768479670763-kedj61gmv90duoqv9l7sh4mdqaa7a0vh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
